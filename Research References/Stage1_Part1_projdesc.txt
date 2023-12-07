@@ -1,0 +1,28 @@
+1) Pretraining/Data Analysis: due 15th OCT
+REQUIREMENTS:
+___________________________
+PyCaret for modeling and classification
+___________________________
+1) DATA CLEANING
+check for missing data/pixels
+check for features and estimate according to RF
+data augmentation
+extract video frames---data augmentation---cropping---IMAGE SEGMENTATION
+using ml techniques
+normalisation--numerical
+scaling--numerical
+unbiased the data
+___________________________
+2) PRE-TRAINING
+data is labelled
+model is prebuilt
+define training set / test set
+import library only, record results
+vary according to supervised or unsupervised model
+
+TRY SEVERAL TECHNIQUES OF DATA CLEANING THEN PRETRAIN EACH
+APIS CAN BE USED FOR PRETRAINING IMAGES
+___________________________
+NEXT STEP: HYPER PARAMETER TUNING/OPTIMISATION OF PARAMETERS
+TRY MANY KERNELS FOR EXAMPLE SVM
+YOU CAN TRY VOTING TECHNIQUES AND OTHER SIMPLE LEARNING
